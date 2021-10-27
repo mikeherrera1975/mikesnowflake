@@ -144,7 +144,7 @@ nbdime==1.1.0
 nbformat==4.4.0
 networkx==2.4
 nltk==3.4.5
-notebook==6.1.5
+notebook==6.4.1
 numba==0.46.0
 numpy==1.15.1
 oauth2client==4.1.3
