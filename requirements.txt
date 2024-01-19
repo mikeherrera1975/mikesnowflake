@@ -181,7 +181,7 @@ pyasn1-modules==0.2.7
 pycairo==1.18.2
 pycparser==2.19
 pycrypto==2.6.1
-pycryptodome==3.9.4
+pycryptodome==3.19.1
 pycryptodomex==3.9.4
 pycurl==7.43.0.3
 pydata-google-auth==0.1.3
