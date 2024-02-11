@@ -78,7 +78,7 @@ google-reauth==0.1.0
 google-resumable-media==0.4.1
 googleapis-common-protos==1.6.0
 grpc-google-iam-v1==0.12.3
-grpcio==1.53.0
+grpcio==1.53.2
 gsutil==4.46
 h5py==2.10.0
 HeapDict==1.0.1
